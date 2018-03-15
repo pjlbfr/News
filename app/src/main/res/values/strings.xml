@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="error_message">Server not responding!</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_news">News</string>
+    <string name="title_details">Details</string>
+</resources>
